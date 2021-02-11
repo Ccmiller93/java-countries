@@ -14,7 +14,7 @@ The countries of the world have many different defining attributes including lan
 
 We will be creating an table for country data. The country model should contain the following fields. The model should be named `Country` and the table `countries`
 
-* String name
+* String name 
 * long population
 * long landmasskm2
 * int medianage
